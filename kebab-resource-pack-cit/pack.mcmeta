@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "description": "Kebab & Fries CIT reskins (requires CIT Resewn)",
+    "min_format": 80,
+    "max_format": [130, 0]
+  }
+}
